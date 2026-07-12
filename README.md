@@ -1,2 +1,2 @@
 # pocket-stable
-A game where you care about horses!
+A game about rescuing horses and taking care of them!
